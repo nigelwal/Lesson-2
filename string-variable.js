@@ -4,7 +4,7 @@ var message;
 
 // Assign values to these variables.
 username = "Nigel";
-message = "See our upcoming range";
+message = "Hey " + username + " See our upcoming range ";
 
 // Get the element with an id of name.
 var elName = document.getElementById("name");
